@@ -1,0 +1,11 @@
+{
+    "HintWhenThreeCombo": true,
+    "HintWhenFourCombo": true,
+    "HintForPostion": false,
+    "Language": true,
+    "Theme": true,
+    "FullScreen": false,
+    "Voice": true,
+    "AISearchDepth": 3,
+    "Address": "127.0.0.1"
+}
